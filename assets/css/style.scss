@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header {
+  display: none;
+}
+
 h3 {
   margin-bottom: 8px;
   font-size: 18px;
