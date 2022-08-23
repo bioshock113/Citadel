@@ -11,7 +11,6 @@ h3 {
 body {
     color : #4A4A4A;
     }
-}
 a:link {
   color: #42a5f5;
 }
@@ -59,4 +58,5 @@ friends to join. One day my son will join me in one of my favorite games of all 
 - Currently I don't have any smart devices to control but I know eventually I will. It'd be nice to have a dashboard of easily modifiable controls for various home appliances.
 #### The Learning Opportunites
 - I enjoy acquiring new skills and learn most effectively when I can actually apply those skills. Since I work in an environment dealing with server related tasks and I plan on continuing along this path, it only makes sense to practice those skills at home as a hobby.
+
 ---
