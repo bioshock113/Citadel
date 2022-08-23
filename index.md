@@ -4,8 +4,7 @@ h3 {
 }
 </style>
 
-
-# Home
+#### [About Me](/about.md)   
 ---
 ### This is a running log of my adventures in technology and the challenges I've faced.  I've been working on getting a home server up and running. Lets talk a little bit about that.
 ***HP Z420***  
@@ -39,7 +38,7 @@ friends to join. One day my son will join me in one of my favorite games of all 
 - I'd also like to setup a Project Zomboid server too. Really whatever game I can host, I **want** to host.
 #### Home Automation
 - Currently I don't have any smart devices to control but I know eventually I will. It'd be nice to have a dashboard of easily modifiable controls for various home appliances.
-#### The Learning Opportunities
+#### The Learning Opportunities  
 - I enjoy acquiring new skills and learn most effectively when I can actually apply those skills. Since I work in an environment dealing with server related tasks and I plan on continuing along this path, it only makes sense to practice those skills at home as a hobby.
 ---
 **So there, that's why I wanted a home server.**
