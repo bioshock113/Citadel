@@ -1,9 +1,9 @@
 <style>
 h1 {
-    color: #424242
+    color: #424242;
     }
 h2 {
-    color: #424242
+    color: #424242;
     }
 h3 {
     color: #424242;
