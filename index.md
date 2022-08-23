@@ -1,6 +1,25 @@
 <style>
+h1 {
+    color: #424242
+    }
+h2 {
+    color: #424242
+    }
 h3 {
-    color: #303030;
+    color: #424242;
+    }
+body {
+    color : #4A4A4A;
+    }
+}
+a:link {
+  color: #bbdefb;
+}
+    a:visited {
+  color: #bbdefb;
+}
+a:hover {
+  color: #42a5f5;
 }
 </style>
 
