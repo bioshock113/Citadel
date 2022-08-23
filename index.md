@@ -1,3 +1,10 @@
+<style>
+h3 {
+    color: #303030;
+}
+</style>
+
+
 # Home
 ---
 ### This is a running log of my adventures in technology and the challenges I've faced.  I've been working on getting a home server up and running. Lets talk a little bit about that.
