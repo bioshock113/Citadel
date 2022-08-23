@@ -23,7 +23,7 @@ a:hover {
 }
 </style>
 
-### [Home](/index.md)   
+- [Home](/index.md)   
 ---
 ### About Me  
 **I love video games but don't find too much time to play them nowadays.  
