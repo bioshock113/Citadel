@@ -13,13 +13,13 @@ body {
     }
 }
 a:link {
-  color: #bbdefb;
+  color: #42a5f5;
 }
     a:visited {
-  color: #bbdefb;
+  color: #42a5f5;
 }
 a:hover {
-  color: #42a5f5;
+  color: #1976d2;
 }
 </style>
 
