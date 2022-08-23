@@ -1,4 +1,7 @@
-# About Me  
+
+#### [Home](/index.md)   
+---
+### About Me  
 **I love video games but don't find too much time to play them nowadays.  
 I mostly play RPGs, FPS', and strategy games.**  
   
