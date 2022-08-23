@@ -60,4 +60,3 @@ friends to join. One day my son will join me in one of my favorite games of all 
 #### The Learning Opportunites  
 - I enjoy acquiring new skills and learn most effectively when I can actually apply those skills. Since I work in an environment dealing with server related tasks and I plan on continuing along this path, it only makes sense to practice those skills at home as a hobby.
 ---
- **So there, that's why I wanted a home server.**
