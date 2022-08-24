@@ -7,9 +7,26 @@ header {
   display: none;
 }
 
+<style>
+h1 {
+    color: #424242;
+    }
+h2 {
+    color: #424242;
+    }
 h3 {
-  margin-bottom: 8px;
-  font-size: 18px;
-  font-weight: bold;
-  color: #303030;
+    color: #303030;
+    }
+body {
+    color : #4A4A4A;
+    }
+a:link {
+  color: #42a5f5;
 }
+    a:visited {
+  color: #42a5f5;
+}
+a:hover {
+  color: #1976d2;
+}
+</style>
