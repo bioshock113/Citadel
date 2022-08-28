@@ -3,6 +3,8 @@
 - [Journal Entries](/journal.md)
 - [Old Home Screen](/oldhome.md)
 
+---
+
 This site is a story of my time building my home server and all the problems that I encounter.
 I also plan on writing about other fun technology things I get up to as well. 
 
