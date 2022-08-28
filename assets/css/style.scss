@@ -3,26 +3,25 @@
 
 @import "{{ site.theme }}";
 <style>
-
 header {
   display: none;
 }
 h1 {
-    color: #424242;
-    }
+  color: #424242;
+}
 h2 {
-    color: #424242;
-    }
+  color: #424242;
+}
 h3 {
-    color: #303030;
-    }
+  color: #303030;
+}
 body {
-    color : #4A4A4A;
-    }
+  color : #4A4A4A;
+}
 a:link {
   color: #42a5f5;
 }
-    a:visited {
+a:visited {
   color: #42a5f5;
 }
 a:hover {
