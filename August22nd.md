@@ -1,5 +1,6 @@
 
 - [Home](/index.md)
+- [Journal Entries](/journal.md)
 
 
 # August 22nd, 2022
