@@ -1,8 +1,10 @@
+## Old Home Page
 - [Home](/index.md)
-- [About Me](/about.md)
 - [Journal Entries](/journal.md)
+- [About Me](/about.md)
 
 ---
+
 ### This is a running log of my adventures in technology and the challenges I've faced.  I've been working on getting a home server up and running. Lets talk a little bit about that.
 ***HP Z420***  
 That's the computer I chose to get this adventure off the ground. 
