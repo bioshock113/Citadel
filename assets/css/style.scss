@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-
+<style>
 header {
   display: none;
 }
@@ -27,3 +27,4 @@ a:visited {
 a:hover {
   color: #1976d2;
 }
+</style>
