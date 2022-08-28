@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" media="all" href="/assets/css/style.scss" />
-
 ## My Adventures in Technology
 - [About Me](/about.md)
 - [Journal Entries](/journal.md)
