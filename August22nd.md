@@ -8,6 +8,7 @@
 ---
 
 #### Website Development
+
 I finally figured out why my code was making the last paragraph into a header.  
 I'm pretty sure it had something to do with uncontained CSS code that didn't have enclosing brackets. Actually I think it was having text touching a horizontal line-break dash which I just figured out while writing this can cause emboldened text. *sigh*
 
