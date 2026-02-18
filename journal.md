@@ -1,14 +1,9 @@
----
-layout: default
-title: Journal Entries
-permalink: /journal/
----
-
 ## Journal Entries
-- [Home](/)
+- [Home](/index.md)
 
 ---
 
-- [August 22nd, 2022](/journal/2022-08-22/)
-- [August 28th, 2022](/journal/2022-08-28/)
-- [September 23rd, 2022](/journal/2022-09-23/)
+
+- [August 22nd, 2022](/August22nd.md)
+- [August 28th, 2022](/august28th.md)
+- [September 23rd, 2022](september23rd.md)
